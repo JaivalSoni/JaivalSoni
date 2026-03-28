@@ -28,17 +28,22 @@ Mindset    :  Understand the system before you trust it.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css&theme=dark" />
 
 **Data & ML**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,framer&theme=dark" />
+
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnometerminal&logoColor=39d353)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-1a1a1a?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/import_antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -81,15 +86,19 @@ Mindset    :  Understand the system before you trust it.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JaivalSoni&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&rank_icon=github" />
+<a href="https://github.com/JaivalSoni">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JaivalSoni&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" />
+</a>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaivalSoni&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
+<a href="https://github.com/JaivalSoni">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaivalSoni&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&cache_seconds=1800" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaivalSoni&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
+<img src="https://streak-stats.demolab.com/?user=JaivalSoni&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
 
 </div>
 
