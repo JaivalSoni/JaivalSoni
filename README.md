@@ -8,9 +8,7 @@
 
 # `whoami` → Jaival Soni
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=CSE+Student+%40+Indrashil+University;AI+%2F+ML+Learner;Cybersecurity+Enthusiast;Always+learning%2C+always+building)](https://github.com/JaivalSoni)
-
-*Gandhinagar, India*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=CSE+Student;AI+%2F+ML+Learner;Cybersecurity+Enthusiast;Always+learning%2C+always+building)](https://github.com/JaivalSoni)
 
 [![GitHub followers](https://img.shields.io/github/followers/JaivalSoni?style=flat&color=39d353&labelColor=0d1117&label=Followers)](https://github.com/JaivalSoni)
 [![Profile Views](https://komarev.com/ghpvc/?username=JaivalSoni&style=flat&color=39d353&labelColor=0d1117)](https://github.com/JaivalSoni)
@@ -23,6 +21,7 @@
 
 ```
 B.Tech CSE student — building skills that actually matter beyond the curriculum.
+Location   :  Gandhinagar, India
 Interests  :  AI/ML  |  Cybersecurity  |  Web Development
 Mindset    :  Understand the system before you trust it.
 ```
