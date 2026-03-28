@@ -1,5 +1,7 @@
 <div align="center">
 
+![matrix](./matrix-banner.svg)
+
 # `whoami` → Jaival Soni
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=CSE+Student;AI+%2F+ML+Learner;Cybersecurity+Enthusiast;Always+learning%2C+always+building)](https://github.com/JaivalSoni)
