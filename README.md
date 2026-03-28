@@ -1,101 +1,117 @@
 <div align="center">
 
-# Hey, I'm Jaival 👋
+```
+╔═══════════════════════════════════════════════════╗
+║           ACCESS GRANTED — WELCOME                ║
+╚═══════════════════════════════════════════════════╝
+```
 
-**CSE Student · AI/ML · Cybersecurity · Building in Public**
+# `whoami` → Jaival Soni
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=CSE+Student+%40+Indrashil+University;AI+%2F+ML+Learner;Cybersecurity+Enthusiast;Always+learning%2C+always+building)](https://github.com/JaivalSoni)
 
 *Gandhinagar, India*
 
-[![GitHub followers](https://img.shields.io/github/followers/JaivalSoni?style=flat&color=0f0f0f&labelColor=161b22&label=Followers)](https://github.com/JaivalSoni)
-[![Profile Views](https://komarev.com/ghpvc/?username=JaivalSoni&style=flat&color=0f0f0f&labelColor=161b22)](https://github.com/JaivalSoni)
+[![GitHub followers](https://img.shields.io/github/followers/JaivalSoni?style=flat&color=39d353&labelColor=0d1117&label=Followers)](https://github.com/JaivalSoni)
+[![Profile Views](https://komarev.com/ghpvc/?username=JaivalSoni&style=flat&color=39d353&labelColor=0d1117)](https://github.com/JaivalSoni)
 
 </div>
 
 ---
 
-## About Me
+## `$ cat about.txt`
 
-B.Tech CSE student  — building skills that actually matter beyond the curriculum.
-
-Interested in **AI/ML**, **cybersecurity**, and **web development**. I like understanding how things work under the hood, not just using tools blindly.
+```
+B.Tech CSE student — building skills that actually matter beyond the curriculum.
+Interests  :  AI/ML  |  Cybersecurity  |  Web Development
+Mindset    :  Understand the system before you trust it.
+```
 
 ---
 
-## 🛠 Tech Stack
+## `$ ls skills/`
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0f0f0f?style=flat&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-0f0f0f?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0f0f0f?style=flat&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0f0f?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0f0f0f?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0f0f0f?style=flat&logo=css3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=39d353)
+![C](https://img.shields.io/badge/C-0d1117?style=flat&logo=c&logoColor=39d353)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=39d353)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=39d353)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=html5&logoColor=39d353)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat&logo=css3&logoColor=39d353)
 
 **Data & ML**
 
-![NumPy](https://img.shields.io/badge/NumPy-0f0f0f?style=flat&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0f0f0f?style=flat&logo=pandas&logoColor=150458)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f0f0f?style=flat&logo=scikit-learn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=39d353)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=39d353)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat&logo=scikit-learn&logoColor=39d353)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-0f0f0f?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0f0f0f?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-0f0f0f?style=flat&logo=cisco&logoColor=1BA0D7)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=39d353)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=39d353)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat&logo=visual-studio-code&logoColor=39d353)
+![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-0d1117?style=flat&logo=cisco&logoColor=39d353)
 
 ---
 
-## 🐧 Linux Experience
+## `$ cat /etc/os-release` — Linux Experience
 
-I work primarily on Linux across security research and daily use. Here's an honest breakdown:
+> I work primarily on Linux across security research and daily use. Honest breakdown below.
 
-**Active / Primary Use**
+**Active / Primary**
 
-| Distro | Focus | Experience |
-|--------|-------|------------|
-| ![Kali](https://img.shields.io/badge/Kali_Linux-0f0f0f?style=flat&logo=kalilinux&logoColor=557C94) | Offensive Security — network scanning, enumeration, exploitation tools | Active user · multiple hands-on attacks |
-| ![Parrot](https://img.shields.io/badge/Parrot_OS-0f0f0f?style=flat&logo=linux&logoColor=2ec0f9) | Defensive Security — OSINT, forensics, privacy-focused tooling | Comfortable with the ecosystem |
-| ![Arch](https://img.shields.io/badge/Arch_Linux-0f0f0f?style=flat&logo=archlinux&logoColor=1793D1) | System internals — manual setup, package management, customization | Currently learning |
+| Distro | Role | Status |
+|--------|------|--------|
+| ![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat&logo=kalilinux&logoColor=39d353) | Offensive Security — network scanning, enumeration, exploitation | Active · multiple hands-on attacks |
+| ![Parrot](https://img.shields.io/badge/Parrot_OS-0d1117?style=flat&logo=linux&logoColor=39d353) | Defensive Security — OSINT, forensics, privacy-focused tooling | Comfortable with the ecosystem |
+| ![Arch](https://img.shields.io/badge/Arch_Linux-0d1117?style=flat&logo=archlinux&logoColor=39d353) | System internals — manual setup, package management, customization | Currently learning |
 
 **Explored**
 
-![Garuda](https://img.shields.io/badge/Garuda-0f0f0f?style=flat&logo=linux&logoColor=white)
-![Pop!_OS](https://img.shields.io/badge/Pop!_OS-0f0f0f?style=flat&logo=popos&logoColor=48B9C7)
-![Fedora](https://img.shields.io/badge/Fedora-0f0f0f?style=flat&logo=fedora&logoColor=51A2DA)
-![Tails](https://img.shields.io/badge/Tails_OS-0f0f0f?style=flat&logo=linux&logoColor=56347C)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=flat&logo=ubuntu&logoColor=39d353)
+![Debian](https://img.shields.io/badge/Debian-0d1117?style=flat&logo=debian&logoColor=39d353)
+![Garuda](https://img.shields.io/badge/Garuda-0d1117?style=flat&logo=linux&logoColor=39d353)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-0d1117?style=flat&logo=popos&logoColor=39d353)
+![Fedora](https://img.shields.io/badge/Fedora-0d1117?style=flat&logo=fedora&logoColor=39d353)
+![Tails](https://img.shields.io/badge/Tails_OS-0d1117?style=flat&logo=linux&logoColor=39d353)
 
 ---
 
-## 📚 Currently Learning
+## `$ tail -f learning.log`
 
-- **Machine Learning** — Algorithms, model training, evaluation
-- **Deep Learning** — CNNs, RNNs, Transformers
-- **Cybersecurity** — Offensive & defensive techniques, networking protocols
-- **Arch Linux** — Because if you can configure Arch, you understand Linux
-- **DSA** — Problem solving in C++
+```bash
+[ACTIVE]   Machine Learning      →  Algorithms, model training, evaluation
+[ACTIVE]   Deep Learning         →  CNNs, RNNs, Transformers
+[ACTIVE]   Cybersecurity         →  Offensive & defensive techniques, protocols
+[ACTIVE]   Arch Linux            →  Because understanding the system matters
+[ACTIVE]   DSA                   →  Problem solving in C++
+```
 
 ---
 
-## 📊 GitHub Stats
+## `$ neofetch --stats`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JaivalSoni&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=JaivalSoni&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaivalSoni&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaivalSoni&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaivalSoni&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=8b949e" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaivalSoni&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Consistency > Motivation.</sub>
+
+```
+> Consistency > Motivation. Keep building.
+```
+
 </div>
