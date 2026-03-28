@@ -15,7 +15,7 @@
 
 ## About Me
 
-B.Tech CSE student @ Indrashil University — building skills that actually matter beyond the curriculum.
+B.Tech CSE student — building skills that actually matter beyond the curriculum.
 
 Interested in **AI/ML**, **cybersecurity**, and **web development**. I like understanding how things work under the hood, not just using tools blindly.
 
@@ -27,14 +27,11 @@ Interested in **AI/ML**, **cybersecurity**, and **web development**. I like unde
 
 ![Python](https://img.shields.io/badge/Python-0f0f0f?style=flat&logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-0f0f0f?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0f0f0f?style=flat&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0f0f?style=flat&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-0f0f0f?style=flat&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0f0f0f?style=flat&logo=css3&logoColor=1572B6)
 
 **Data & ML**
 
-![NumPy](https://img.shields.io/badge/NumPy-0f0f0f?style=flat&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-0f0f0f?style=flat&logo=pandas&logoColor=150458)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f0f0f?style=flat&logo=scikit-learn&logoColor=F7931E)
 
