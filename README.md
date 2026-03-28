@@ -39,11 +39,9 @@ Mindset    :  Understand the system before you trust it.
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,framer&theme=dark" />
-
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnometerminal&logoColor=39d353)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-1a1a1a?style=for-the-badge&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/import_antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://cdn.simpleicons.org/termux/39d353" width="48" height="48" alt="Termux" title="Termux" />
+<img src="https://cdn.simpleicons.org/cursor/ffffff" width="48" height="48" alt="Cursor AI" title="Cursor AI" />
+<img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="import antigravity" title="import antigravity 🪁" />
 
 ---
 
