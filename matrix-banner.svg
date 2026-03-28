@@ -1,0 +1,81 @@
+<svg width="838" height="100" viewBox="0 0 838 100" xmlns="http://www.w3.org/2000/svg">
+<rect width="838" height="100" fill="#0d1117"/>
+<style>
+.m{font-family:'Courier New',monospace;font-size:11px;fill:#39d353;opacity:0;}
+@keyframes f0{0%,100%{opacity:0}40%{opacity:.22}60%{opacity:.12}}
+@keyframes f1{0%,100%{opacity:.04}25%{opacity:.28}75%{opacity:.07}}
+@keyframes f2{0%,100%{opacity:.1}35%{opacity:.2}65%{opacity:0}}
+@keyframes f3{0%,100%{opacity:0}20%{opacity:.16}55%{opacity:.26}85%{opacity:.04}}
+@keyframes f4{0%,100%{opacity:.07}45%{opacity:.23}80%{opacity:.09}}
+@keyframes f5{0%,100%{opacity:0}15%{opacity:.18}50%{opacity:.1}90%{opacity:.27}}
+@keyframes f6{0%,100%{opacity:.13}30%{opacity:0}60%{opacity:.22}95%{opacity:.07}}
+@keyframes f7{0%,100%{opacity:.04}40%{opacity:.26}70%{opacity:.09}}
+.a0{animation:f0 3.5s linear infinite}
+.a1{animation:f1 2.8s .4s linear infinite}
+.a2{animation:f2 4.2s .8s linear infinite}
+.a3{animation:f3 3.1s 1.2s linear infinite}
+.a4{animation:f4 2.5s .6s linear infinite}
+.a5{animation:f5 3.8s 1.5s linear infinite}
+.a6{animation:f6 4.5s .2s linear infinite}
+.a7{animation:f7 2.9s 1.8s linear infinite}
+</style>
+<!-- Row 1 -->
+<text class="m a0" x="12" y="18">01</text>
+<text class="m a3" x="52" y="18">10</text>
+<text class="m a6" x="132" y="18">1</text>
+<text class="m a1" x="172" y="18">01</text>
+<text class="m a4" x="252" y="18">0</text>
+<text class="m a7" x="292" y="18">11</text>
+<text class="m a2" x="372" y="18">0</text>
+<text class="m a5" x="412" y="18">01</text>
+<text class="m a0" x="492" y="18">1</text>
+<text class="m a3" x="572" y="18">00</text>
+<text class="m a6" x="652" y="18">1</text>
+<text class="m a1" x="732" y="18">01</text>
+<text class="m a4" x="800" y="18">0</text>
+<!-- Row 2 -->
+<text class="m a2" x="52" y="36">/</text>
+<text class="m a5" x="92" y="36">10</text>
+<text class="m a0" x="212" y="36">$</text>
+<text class="m a7" x="332" y="36">01</text>
+<text class="m a3" x="452" y="36">#</text>
+<text class="m a6" x="532" y="36">1</text>
+<text class="m a1" x="612" y="36">10</text>
+<text class="m a4" x="692" y="36">$</text>
+<text class="m a0" x="800" y="36">1</text>
+<text class="m a3" x="12" y="36">|</text>
+<!-- Row 3 -->
+<text class="m a5" x="12" y="54">1</text>
+<text class="m a2" x="132" y="54">01</text>
+<text class="m a7" x="172" y="54">&gt;</text>
+<text class="m a3" x="292" y="54">10</text>
+<text class="m a6" x="372" y="54">0</text>
+<text class="m a1" x="412" y="54">01</text>
+<text class="m a4" x="492" y="54">#</text>
+<text class="m a0" x="572" y="54">1</text>
+<text class="m a7" x="652" y="54">10</text>
+<text class="m a5" x="732" y="54">$</text>
+<text class="m a2" x="92" y="54">~</text>
+<!-- Row 4 -->
+<text class="m a3" x="52" y="72">01</text>
+<text class="m a6" x="212" y="72">1</text>
+<text class="m a1" x="252" y="72">10</text>
+<text class="m a4" x="332" y="72">0</text>
+<text class="m a7" x="452" y="72">01</text>
+<text class="m a2" x="532" y="72">/</text>
+<text class="m a5" x="612" y="72">1</text>
+<text class="m a0" x="692" y="72">10</text>
+<text class="m a3" x="800" y="72">01</text>
+<text class="m a6" x="12" y="72">*</text>
+<!-- Row 5 -->
+<text class="m a6" x="92" y="90">0</text>
+<text class="m a1" x="172" y="90">11</text>
+<text class="m a4" x="292" y="90">01</text>
+<text class="m a7" x="372" y="90">0</text>
+<text class="m a0" x="492" y="90">1</text>
+<text class="m a3" x="572" y="90">10</text>
+<text class="m a6" x="652" y="90">01</text>
+<text class="m a2" x="732" y="90">0</text>
+<text class="m a5" x="452" y="90">~</text>
+<text class="m a4" x="132" y="90">1</text>
+</svg>
