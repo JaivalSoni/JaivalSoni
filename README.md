@@ -1,10 +1,6 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════╗
-║           ACCESS GRANTED — WELCOME                ║
-╚═══════════════════════════════════════════════════╝
-```
+![matrix](./matrix-banner.svg)
 
 # `whoami` → Jaival Soni
 
@@ -32,25 +28,18 @@ Mindset    :  Understand the system before you trust it.
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=39d353)
-![C](https://img.shields.io/badge/C-0d1117?style=flat&logo=c&logoColor=39d353)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=39d353)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=39d353)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=html5&logoColor=39d353)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat&logo=css3&logoColor=39d353)
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css&theme=dark" />
 
 **Data & ML**
 
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=39d353)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=39d353)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat&logo=scikit-learn&logoColor=39d353)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=39d353)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=39d353)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat&logo=visual-studio-code&logoColor=39d353)
-![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-0d1117?style=flat&logo=cisco&logoColor=39d353)
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
@@ -62,18 +51,18 @@ Mindset    :  Understand the system before you trust it.
 
 | Distro | Role | Status |
 |--------|------|--------|
-| ![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat&logo=kalilinux&logoColor=39d353) | Offensive Security — network scanning, enumeration, exploitation | Active · multiple hands-on attacks |
-| ![Parrot](https://img.shields.io/badge/Parrot_OS-0d1117?style=flat&logo=linux&logoColor=39d353) | Defensive Security — OSINT, forensics, privacy-focused tooling | Comfortable with the ecosystem |
-| ![Arch](https://img.shields.io/badge/Arch_Linux-0d1117?style=flat&logo=archlinux&logoColor=39d353) | System internals — manual setup, package management, customization | Currently learning |
+| ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) | Offensive Security — network scanning, enumeration, exploitation | Active · multiple hands-on attacks |
+| ![Parrot](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black) | Defensive Security — OSINT, forensics, privacy-focused tooling | Comfortable with the ecosystem |
+| ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) | System internals — manual setup, package management, customization | Currently learning |
 
 **Explored**
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=flat&logo=ubuntu&logoColor=39d353)
-![Debian](https://img.shields.io/badge/Debian-0d1117?style=flat&logo=debian&logoColor=39d353)
-![Garuda](https://img.shields.io/badge/Garuda-0d1117?style=flat&logo=linux&logoColor=39d353)
-![Pop!_OS](https://img.shields.io/badge/Pop!_OS-0d1117?style=flat&logo=popos&logoColor=39d353)
-![Fedora](https://img.shields.io/badge/Fedora-0d1117?style=flat&logo=fedora&logoColor=39d353)
-![Tails](https://img.shields.io/badge/Tails_OS-0d1117?style=flat&logo=linux&logoColor=39d353)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Garuda](https://img.shields.io/badge/Garuda-E84545?style=for-the-badge&logo=linux&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Tails](https://img.shields.io/badge/Tails_OS-56347C?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
