@@ -75,6 +75,13 @@ Mindset    :  Understand the system before you trust it.
 [ACTIVE]   DSA                   →  Problem solving in C++
 ```
 
+## `$ cat goals.txt`
+```bash
+[ ] Contribute to an open-source ML project  →  TensorFlow / Hugging Face / Scikit-learn
+[ ] Build & deploy a real AI/ML project end-to-end
+[ ] Land Google Summer of Code (GSoC)
+```
+
 ---
 
 ## `$ neofetch --stats`
