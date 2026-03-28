@@ -15,7 +15,7 @@
 
 ## About Me
 
-B.Tech CSE student @ Indrashil University — building skills that actually matter beyond the curriculum.
+B.Tech CSE student  — building skills that actually matter beyond the curriculum.
 
 Interested in **AI/ML**, **cybersecurity**, and **web development**. I like understanding how things work under the hood, not just using tools blindly.
 
