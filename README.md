@@ -38,11 +38,11 @@ Mindset    :  Understand the system before you trust it.
 **Tech Stack**
 
 [![My Skills](https://skillicons.dev/icons?i=java,git,github,vscode,arch,stackoverflow,tensorflow,vscodium,nodejs,arduino,bash,blender,gitlab,kali,linux,notion,debian,mysql,figma&theme=dark)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/ParrotSec/project-graphics/master/logo/parrot-logo.svg" height="48"/>
 
 **Tools**
 
-<img src="./framer.jpg" width="48" height="48" alt="Framer" title="Framer" /><img src="./cursor_ai.png" width="48" height="48" alt="Cursor AI" title="Cursor AI" /><img src="./termux.png" width="48" height="48" alt="Termux" title="Termux" /><img src="./antigravity.jpg" width="48" height="48" alt="Antigravity" title="import antigravity 🪁" />
+<img src="./framer.jpg" width="48" height="48" alt="Framer" title="Framer" /><img src="./cursor_ai.png" width="48" height="48" alt="Cursor AI" title="Cursor AI" /><img src="./termux.png" width="48" height="48" alt="Termux" title="Termux" /><img src="./antigravity.jpg" width="48" height="48" alt="Antigravity" title="import antigravity 🪁" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" />
+
 
 ## `$ cat /etc/os-release` — Linux Experience
 
