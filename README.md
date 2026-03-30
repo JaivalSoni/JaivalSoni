@@ -47,6 +47,7 @@ Mindset    :  Understand the system before you trust it.
 **Tech Stack**
 
 [![My Skills]([https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light](https://skillicons.dev/icons?i=java,arch,stackoverflow,tensorflow,vscodium,nodejs,arduino,bash,blender,gitlab,kali,linux,notion,debian,mysql,figma&theme=dark))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ## `$ cat /etc/os-release` — Linux Experience
 
