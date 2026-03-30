@@ -43,9 +43,9 @@ Mindset    :  Understand the system before you trust it.
   <img src="./cursor_ai.png" height="48"/>
   <img src="./termux.png" height="48"/>
   <img src="./antigravity.jpg" height="48"/>
-  [![My Skills](https://skillicons.dev/icons?i=java,arch,stackoverflow,tensorflow,vscodium,nodejs,arduino,bash,blender,gitlab,kali,linux,notion,debian,mysql,figma&theme=dark)](https://skillicons.dev)
 
 **Tech Stack**
+
 [![My Skills](https://skillicons.dev/icons?i=java,arch,stackoverflow,tensorflow,vscodium,nodejs,arduino,bash,blender,gitlab,kali,linux,notion,debian,mysql,figma&theme=dark)](https://skillicons.dev)
 
 ## `$ cat /etc/os-release` — Linux Experience
