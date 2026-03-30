@@ -44,7 +44,6 @@ Mindset    :  Understand the system before you trust it.
   <img src="./cursor_ai.png" width="48" height="48" alt="Cursor AI" />
   <img src="./termux.png" width="48" height="48" alt="Termux" />
   <img src="./antigravity.jpg" width="48" height="48" alt="Antigravity" />
-
   <img src="https://skillicons.dev/icons?i=java,arch,nodejs,arduino,bash,blender,gitlab,kali,linux,notion,debian,mysql,figma&theme=dark" />
 </p>
 
