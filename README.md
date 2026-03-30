@@ -42,6 +42,11 @@ Mindset    :  Understand the system before you trust it.
   <img src="./termux.png" height="48"/>
   <img src="./antigravity.jpg" height="48"/>
 
+**Tools**
+
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /><img src="./framer.jpg" width="48" height="48" alt="Framer" title="Framer" /><img src="./cursor_ai.png" width="48" height="48" alt="Cursor AI" title="Cursor AI" /><img src="./termux.png" width="48" height="48" alt="Termux" title="Termux" /><img src="./antigravity.jpg" width="48" height="48" alt="Antigravity" title="import antigravity 🪁" />
+
 
 ## `$ cat /etc/os-release` — Linux Experience
 
