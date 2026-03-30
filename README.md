@@ -37,10 +37,7 @@ Mindset    :  Understand the system before you trust it.
 
 **Tech Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=java,git,github,vscode,arch,stackoverflow,tensorflow,vscodium,nodejs,arduino,bash,blender,gitlab,kali,linux,notion,debian,mysql,figma&theme=dark)](https://skillicons.dev)<img src="./framer.jpg" height="48"/>
-  <img src="./cursor_ai.png" height="48"/>
-  <img src="./termux.png" height="48"/>
-  <img src="./antigravity.jpg" height="48"/>
+[![My Skills](https://skillicons.dev/icons?i=java,git,github,vscode,arch,stackoverflow,tensorflow,vscodium,nodejs,arduino,bash,blender,gitlab,kali,linux,notion,debian,mysql,figma&theme=dark)](https://skillicons.dev)
 
 **Tools**
 
