@@ -39,14 +39,13 @@ Mindset    :  Understand the system before you trust it.
 
 <p align="left" style="white-space: nowrap;">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="48"/>
+    <img src="https://skillicons.dev/icons?i=java,arch,stackoverflow,tensorflow,vscodium,nodejs,arduino,bash,blender,gitlab,kali,linux,notion,debian,mysql,figma&theme=dark" height="48"/>
+</p>
 
   <img src="./framer.jpg" height="48"/>
   <img src="./cursor_ai.png" height="48"/>
   <img src="./termux.png" height="48"/>
   <img src="./antigravity.jpg" height="48"/>
-
-  <img src="https://skillicons.dev/icons?i=java,arch,stackoverflow,tensorflow,vscodium,nodejs,arduino,bash,blender,gitlab,kali,linux,notion,debian,mysql,figma&theme=dark" height="48"/>
-</p>
 
 ## `$ cat /etc/os-release` — Linux Experience
 
