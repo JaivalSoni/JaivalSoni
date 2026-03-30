@@ -35,7 +35,7 @@ Mindset    :  Understand the system before you trust it.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Tools**
+**Tech Stack**
 
 [![My Skills](https://skillicons.dev/icons?i=java,git,github,vscode,arch,stackoverflow,tensorflow,vscodium,nodejs,arduino,bash,blender,gitlab,kali,linux,notion,debian,mysql,figma&theme=dark)](https://skillicons.dev)<img src="./framer.jpg" height="48"/>
   <img src="./cursor_ai.png" height="48"/>
@@ -44,7 +44,7 @@ Mindset    :  Understand the system before you trust it.
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=java,arch,stackoverflow&theme=dark" /><img src="https://skillicons.dev/icons?i=git,github,vscode,vscodium&theme=dark" /><img src="https://skillicons.dev/icons?i=arduino,bash,blender,&theme=dark" /><img src="https://skillicons.dev/icons?i=tensorflow,gitlab,kali&theme=dark" /><img src="./framer.jpg" width="48" height="48" alt="Framer" title="Framer" /><img src="./cursor_ai.png" width="48" height="48" alt="Cursor AI" title="Cursor AI" /><img src="./termux.png" width="48" height="48" alt="Termux" title="Termux" /><img src="./antigravity.jpg" width="48" height="48" alt="Antigravity" title="import antigravity 🪁" />
+<img src="./framer.jpg" width="48" height="48" alt="Framer" title="Framer" /><img src="./cursor_ai.png" width="48" height="48" alt="Cursor AI" title="Cursor AI" /><img src="./termux.png" width="48" height="48" alt="Termux" title="Termux" /><img src="./antigravity.jpg" width="48" height="48" alt="Antigravity" title="import antigravity 🪁" />
 
 ## `$ cat /etc/os-release` — Linux Experience
 
