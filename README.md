@@ -37,14 +37,15 @@ Mindset    :  Understand the system before you trust it.
 
 **Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<p align="left" style="white-space: nowrap;">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="48"/>
 
-  <img src="./framer.jpg" width="48" height="48" alt="Framer" />
-  <img src="./cursor_ai.png" width="48" height="48" alt="Cursor AI" />
-  <img src="./termux.png" width="48" height="48" alt="Termux" />
-  <img src="./antigravity.jpg" width="48" height="48" alt="Antigravity" />
-  <img src="https://skillicons.dev/icons?i=java,arch,nodejs,arduino,bash,blender,gitlab,kali,linux,notion,debian,mysql,figma&theme=dark" />
+  <img src="./framer.jpg" height="48"/>
+  <img src="./cursor_ai.png" height="48"/>
+  <img src="./termux.png" height="48"/>
+  <img src="./antigravity.jpg" height="48"/>
+
+  <img src="https://skillicons.dev/icons?i=java,arch,nodejs,arduino,bash,blender,gitlab,kali,linux,notion,debian,mysql,figma&theme=dark" height="48"/>
 </p>
 
 ## `$ cat /etc/os-release` — Linux Experience
